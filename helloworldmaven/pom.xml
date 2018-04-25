@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>fr.exia</groupId>
-  <artifactId>helloworldmavec</artifactId>
+  <artifactId>helloworldmaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>helloworldmavec</name>
+  <name>helloworldmaven</name>
   <url>http://maven.apache.org</url>
 
   <properties>

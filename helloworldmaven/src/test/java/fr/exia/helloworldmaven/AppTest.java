@@ -1,4 +1,4 @@
-package fr.exia.helloworldmavec;
+package fr.exia.helloworldmaven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
